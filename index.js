@@ -39,8 +39,8 @@ function guestAdd3() {
     guestScore.textContent = guestScoreValue
 }
 
-function reset() {
-    homeScore.textContent = 0
-    guestScore.textContent = 0 
 
-}
+//function reset() {
+  //  homeScore.textContent = 0
+   // guestScore.textContent = 0 //
+

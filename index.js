@@ -44,3 +44,6 @@ function reset() {
   homeScore.textContent = 0
   guestScore.textContent = 0 
 }
+
+console.log("JavaScript file loaded");
+
